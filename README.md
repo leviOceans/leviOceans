@@ -19,8 +19,8 @@ I am an ***Oceanographer*** and ***Information System Student*** currently livin
 -->
  <div>
   <a href="https://github.com/leviOceans">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levioceans&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levioceans&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=levioceans&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levioceans&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="leviOceans-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
