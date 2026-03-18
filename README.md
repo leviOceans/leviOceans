@@ -5,7 +5,10 @@
 
 Here are some ideas to get you started: -->
 #### First
-I am an ***Oceanographer*** and ***Information System Student*** currently living in São Luís, Maranhão, Brazil. My interests range from technology to music. I am also interested in travel, *programming* and cats.
+
+**Master’s degree in Oceanography** (UFMA, 2021) with experience in *Satellite Oceanography, remote sensing, and coastal and oceanic systems*. Worked as a visiting researcher at INPE, focusing on satellite-based ocean monitoring. Currently pursuing a degree in **Information Systems**, with an interest in applying technology and data analysis to *environmental sciences*. São Luís, Maranhão, Brazil.
+My interests range from technology to music. I am also interested in travel, *programming* and cats.
+
 #### Second
 <!-- 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning JavaScript, Python, Java and C.
