@@ -13,9 +13,9 @@
 
 -->
 <div style="display: inline-block"><br>
-  <img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-CCFF00?style=flat&logo=javascript&logoColor=000000"/>
   <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-CCFF00?style=flat&logo=python&logoColor=000000"/>
   <img align="center" alt="Java" height="30" src="https://img.shields.io/badge/Java-CCFF00?style=flat&logo=openjdk&logoColor=000000"/>
+ <img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-CCFF00?style=flat&logo=javascript&logoColor=000000"/>
 </div>
   
   ##
