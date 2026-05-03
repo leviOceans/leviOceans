@@ -1,23 +1,15 @@
-### Hi there, I am Walterly 👋
+## Hi, I'm Walterly 👋
 
-<!--
-**leviOceans/leviOceans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷 Oceanógrafo em transição para tech — Mestre em Oceanografia (UFMA, 2021) e ex-pesquisador visitante no INPE. Hoje cursando Sistemas de Informação, com foco em análise de dados e programação aplicadas a ciências ambientais e geoespaciais.
 
-Here are some ideas to get you started: -->
-#### First
+🇺🇸 Oceanographer turned developer — Master's in Oceanography (UFMA, 2021) and former visiting researcher at INPE. Now pursuing Information Systems, focused on data analysis and programming applied to environmental and geospatial sciences.
 
-**Master’s degree in Oceanography** (UFMA, 2021) with experience in *Satellite Oceanography, remote sensing, and coastal and oceanic systems*. Worked as a visiting researcher at INPE, focusing on satellite-based ocean monitoring. Currently pursuing a degree in **Information Systems**, with an interest in applying technology and data analysis to *environmental sciences*. São Luís, Maranhão, Brazil.
-My interests range from technology to music. I am also interested in travel, *programming* and cats.
+🇪🇸 Oceanógrafo en transición hacia la tecnología — Máster en Oceanografía (UFMA, 2021) e investigador visitante en el INPE. Actualmente cursando Sistemas de Información, con enfoque en análisis de datos aplicado a ciencias ambientales y geoespaciales.
 
-#### Second
-<!-- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning JavaScript, Python, Java and C.
-- 😄 Pronouns: *he/him/his*
-- ⚡ Fun fact: I really love cats
-<!-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... -->
+---
+📍 São Luís, Maranhão, Brasil
+🌱 Aprendendo / Learning / Aprendiendo: JavaScript, Java, Python
+😄 he/him | 🎵 música | 🐱 gatos
 
 -->
 <div style="display: inline-block"><br>
